@@ -100,7 +100,7 @@ real_time_system/
    python -m unittest discover -s tests
    ```
 
-3. **Executar somente os testes isolados com Pytest**:
+3. **Executar os testes isolados com Pytest**:
  - Deve ser instalado o `Pytest` caso não tenha na sua máquina:
  ```bash
  sudo apt install python3-pytest
