@@ -1,6 +1,3 @@
-### Arquivo `README.md`
-
-```markdown
 # Real-Time System Simulator
 
 Este projeto é uma simulação de um sistema de tempo real, desenvolvido em Python, que resolve exercícios baseados em tarefas concorrentes e programação paralela. Ele abrange a implementação de tarefas simples, produtores e um sistema embarcado para um computador de bicicleta, integrando conceitos de concorrência e sincronização.
